@@ -67,7 +67,7 @@ cd [repo-name]
 If you use these tools in your research, please cite:
 ```
 [Gregory Mc Donald] (2025). Tube Sampling PIV Analysis Tools. 
-GitHub repository: https://github.com/[username]/[repo-name]
+GitHub repository: https://github.com/gregorydarren/geoPIV-Tools  
 
 Related thesis: [Gregory Darren Mc Donald] (2025). Sampling Disturbance During Thin-Walled 
 Tube Sampling in Soft Gold Tailings. MEng Thesis, University of Pretoria.
