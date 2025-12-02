@@ -84,11 +84,11 @@ Tube Sampling in Soft Gold Tailings. MEng Thesis, University of Pretoria.
 
 ## License
 
-[MIT License (GPL-3.0)]
+MIT License (GPL-3.0)
 
 ## Contact
 
-[gregorydarren@icloud.com]
+email: gregorydarren@icloud.com
 ```
 
 ---
