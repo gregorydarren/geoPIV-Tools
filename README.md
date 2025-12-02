@@ -84,20 +84,20 @@ Tube Sampling in Soft Gold Tailings. MEng Thesis, University of Pretoria.
 
 ## License
 
-[Choose an appropriate license - MIT is common for academic code]
+[MIT License (GPL-3.0)]
 
 ## Contact
 
-[Your email or preferred contact method]
+[gregorydarren@icloud.com]
 ```
 
 ---
 
 ### Additional Files to Create:
 
-**LICENSE** (if using MIT License):
+**LICENSE**:
 ```
-MIT License
+MIT License (GPL-3.0)
 
 Copyright (c) [2025] [Gregory Mc Donald]
 
@@ -108,7 +108,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-[standard MIT license text]
+[MIT license](https://github.com/gregorydarren/geoPIV-Tools?tab=GPL-3.0-1-ov-file#readme)
 ```
 
 **`.gitignore`** (for MATLAB projects):
