@@ -29,8 +29,8 @@ These tools process output data from [GeoPIV_RG](http://www.geopivrg.com/) (Stan
 
 ## Requirements
 
-- MATLAB R20XX or later
-- [List any specific toolboxes required]
+- MATLAB R2024b or later
+- Specific runtime (see [GeoPIV_RG](http://www.geopivrg.com/](http://www.geopivrg.com/download.html))
 - GeoPIV_RG software (for generating input data)
 
 ## Installation
