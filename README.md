@@ -1,2 +1,129 @@
 # geoPIV-Tools
 MATLAB tools for plotting centreline strain paths (and others) from GeoPIV_RG output - developed for tube sampling disturbance analysis in soft tailings
+
+
+# Tube Sampling PIV Analysis Tools
+
+MATLAB tools for processing and visualizing strain path data from particle image velocimetry (PIV) analysis of thin-walled tube sampling in geotechnical materials.
+
+## Overview
+
+This repository contains a set of analysis and visualization tools developed as part of a MEng Geotechnical Engineering thesis at the University of Pretoria.
+
+**Thesis:** *Sampling Disturbance During Thin-Walled Tube Sampling in Soft Gold Tailings*
+
+**Author:** [Your Name]
+
+**Year:** [2024/2025]
+
+## Purpose
+
+These tools process output data from [GeoPIV_RG](http://www.geopivrg.com/) (Stanier et al., 2016) to generate plots of centreline strain paths for tube sampling studies. The scripts facilitate the interpretation of soil deformation patterns and sampling disturbance during penetration and extraction of thin-walled sampling tubes.
+
+## Features
+
+- Import and process GeoPIV_RG output files
+- Calculate centreline strain paths
+- Generate publication-quality strain path plots
+- [Add other specific features your code provides]
+
+## Requirements
+
+- MATLAB R20XX or later
+- [List any specific toolboxes required]
+- GeoPIV_RG software (for generating input data)
+
+## Installation
+```bash
+git clone https://github.com/[your-username]/[repo-name].git
+cd [repo-name]
+```
+
+## Usage
+
+[Add basic usage instructions - I can help you write this once I know more about your scripts]
+```matlab
+% Example usage
+[Add example code]
+```
+
+## File Structure
+```
+├── scripts/          # Main analysis scripts
+├── functions/        # Helper functions
+├── examples/         # Example data and outputs
+├── docs/            # Additional documentation
+└── README.md
+```
+
+## Citation
+
+If you use these tools in your research, please cite:
+```
+[Your Name] (2025). Tube Sampling PIV Analysis Tools. 
+GitHub repository: https://github.com/[username]/[repo-name]
+
+Related thesis: [Your Name] (2025). Sampling Disturbance During Thin-Walled 
+Tube Sampling in Soft Gold Tailings. MEng Thesis, University of Pretoria.
+```
+
+## Acknowledgments
+
+- GeoPIV_RG software: Stanier, S.A., Blaber, J., Take, W.A., & White, D.J. (2016). 
+  Improved image-based deformation measurement for geotechnical applications. 
+  Canadian Geotechnical Journal, 53(5), 727-739. 
+  http://www.geopivrg.com/
+
+- University of Pretoria, Department of Civil Engineering
+
+## License
+
+[Choose an appropriate license - MIT is common for academic code]
+
+## Contact
+
+[Your email or preferred contact method]
+```
+
+---
+
+### Additional Files to Create:
+
+**LICENSE** (if using MIT License):
+```
+MIT License
+
+Copyright (c) [2025] [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+[standard MIT license text]
+```
+
+**`.gitignore`** (for MATLAB projects):
+```
+# MATLAB temporary files
+*.asv
+*.m~
+
+# MATLAB autosave files
+*.autosave
+
+# Output files (optional - remove if you want to track outputs)
+*.png
+*.jpg
+*.fig
+*.eps
+
+# Data files (optional)
+*.mat
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
