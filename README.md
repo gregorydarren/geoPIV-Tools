@@ -12,9 +12,9 @@ This repository contains a set of analysis and visualization tools developed as 
 
 **Thesis:** *Sampling Disturbance During Thin-Walled Tube Sampling in Soft Gold Tailings*
 
-**Author:** G.D. Mc Donald
+**Author:** [G.D. Mc Donald](https://za.linkedin.com/in/gregorymcdonaldtheengineer)
 
-**Supervisor:** Professor S.W. Jacobsz
+**Supervisor:** [Professor S.W. Jacobsz](https://www.up.ac.za/civil-engineering/article/1808095/sw-jacobsz)
 
 **Year:** [2024/2025]
 
@@ -36,7 +36,7 @@ These tools process output data from [GeoPIV_RG](http://www.geopivrg.com/) ([Sta
 ## Requirements
 
 - MATLAB R2024b or later
-- Specific runtime (see [GeoPIV_RG](http://www.geopivrg.com/](http://www.geopivrg.com/)))
+- Specific runtime (see [GeoPIV_RG](http://www.geopivrg.com/))
 - GeoPIV_RG software (for generating input data)
 
 ## Installation
