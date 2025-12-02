@@ -91,9 +91,7 @@ MIT License (GPL-3.0)
 email: gregorydarren@icloud.com
 ```
 
----
-
-### Additional Files to Create:
+```
 
 **LICENSE**:
 ```
