@@ -20,19 +20,23 @@ This repository contains a set of analysis and visualization tools developed as 
 
 ## Purpose
 
-These tools process output data from [GeoPIV_RG](http://www.geopivrg.com/) (Stanier et al., 2016) to generate plots of centreline strain paths for tube sampling studies. The scripts facilitate the interpretation of soil deformation patterns and sampling disturbance during penetration and extraction of thin-walled sampling tubes.
+These tools process output data from [GeoPIV_RG](http://www.geopivrg.com/) ([Stanier et al., 2016](https://cdnsciencepub.com/doi/10.1139/cgj-2015-0253)) to generate plots of centreline strain paths for tube sampling studies. The scripts facilitate the interpretation of soil deformation patterns and sampling disturbance during penetration and extraction of thin-walled sampling tubes.
 
 ## Features
 
 - Import and process GeoPIV_RG output files
 - Calculate centreline strain paths
-- Generate publication-quality strain path plots
-- [Add other specific features your code provides]
+- Creating overlay plots on background images
+- Generate strain path plots
+- Quiver plotting
+- Output strain plotting GUI
+- Grid manipulation for less noisy strain path plotting
+
 
 ## Requirements
 
 - MATLAB R2024b or later
-- Specific runtime (see [GeoPIV_RG](http://www.geopivrg.com/](http://www.geopivrg.com/download.html)) )
+- Specific runtime (see [GeoPIV_RG](http://www.geopivrg.com/](http://www.geopivrg.com/)))
 - GeoPIV_RG software (for generating input data)
 
 ## Installation
@@ -62,10 +66,10 @@ cd [repo-name]
 
 If you use these tools in your research, please cite:
 ```
-[Your Name] (2025). Tube Sampling PIV Analysis Tools. 
+[Gregory Mc Donald] (2025). Tube Sampling PIV Analysis Tools. 
 GitHub repository: https://github.com/[username]/[repo-name]
 
-Related thesis: [Your Name] (2025). Sampling Disturbance During Thin-Walled 
+Related thesis: [Gregory Darren Mc Donald] (2025). Sampling Disturbance During Thin-Walled 
 Tube Sampling in Soft Gold Tailings. MEng Thesis, University of Pretoria.
 ```
 
@@ -76,7 +80,7 @@ Tube Sampling in Soft Gold Tailings. MEng Thesis, University of Pretoria.
   Canadian Geotechnical Journal, 53(5), 727-739. 
   http://www.geopivrg.com/
 
-- University of Pretoria, Department of Civil Engineering
+- University of Pretoria, Department of [Civil Engineering](https://www.up.ac.za/civil-engineering) (Geotechnical division)
 
 ## License
 
@@ -95,7 +99,7 @@ Tube Sampling in Soft Gold Tailings. MEng Thesis, University of Pretoria.
 ```
 MIT License
 
-Copyright (c) [2025] [Your Name]
+Copyright (c) [2025] [Gregory Mc Donald]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
